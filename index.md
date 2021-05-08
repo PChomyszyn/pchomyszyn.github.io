@@ -1,4 +1,4 @@
-## Welcome to Patrick Chomysyzn's portfolio
+## Patrick Chomysyzn's Portfolio
 
 ### Markdown
 
